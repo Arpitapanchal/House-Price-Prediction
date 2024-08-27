@@ -55,5 +55,7 @@ Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 Environment: Jupyter Notebook or any Python IDE
 Data Source: Publicly available datasets or real estate databases
 
+
 Objective: 
+
 The goal of this project is to develop a robust predictive model for house prices that can assist real estate professionals and potential buyers in making informed decisions based on various house attributes.
